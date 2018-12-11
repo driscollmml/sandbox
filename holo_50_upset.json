@@ -1,0 +1,21 @@
+{
+	"file": "https://www.dropbox.com/s/2woaeln0wdhnv2n/holo_50.upset.1pct.txt?dl=0",
+	"name": "Holometabola OGs",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "OG" },
+		{ "type": "float", "index": 6, "name": "numColeoptera" },
+		{ "type": "float", "index": 7, "name": "numDiptera" },
+		{ "type": "float", "index": 8, "name": "numHymenoptera" },
+		{ "type": "float", "index": 9, "name": "numLepidoptera" },
+		{ "type": "float", "index": 10, "name": "numSiphonaptera" },
+		{ "type": "float", "index": 11, "name": "numOfOrths" },
+		{ "type": "float", "index": 12, "name": "orthsPerTaxon" },
+		{ "type": "float", "index": 13, "name": "uniqueTaxa" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
