@@ -1,0 +1,37 @@
+Taxon	Phylum	Cherry	Chestnut	Oak
+Proteobacteria	Bacteria	130946	136601	139502
+Actinobacteria	Bacteria	64433	76896	56502
+Acidobacteria	Bacteria	34536	42780	41957
+Verrucomicrobia	Bacteria	40621	42247	31105
+Bacteroidetes	Bacteria	11675	11236	9662
+Planctomycetes	Bacteria	10741	8704	8772
+Firmicutes	Bacteria	11047	5740	6305
+Gemmatimonadetes	Bacteria	6079	3972	7289
+Chloroflexi	Bacteria	5789	4414	5468
+Cyanobacteria	Bacteria	4397	3965	4149
+Nitrospirae	Bacteria	2103	1359	1989
+Deinococcus-Thermus	Bacteria	1107	909	1022
+Armatimonadetes	Bacteria	605	509	729
+Spirochaetes	Bacteria	420	328	436
+unclassified_bacteria	Bacteria	362	203	457
+Parcubacteria	Bacteria	137	405	286
+Ignavibacteriae	Bacteria	272	174	287
+Chlamydiae	Bacteria	198	229	185
+BRC1	Bacteria	225	178	173
+Chlorobi	Bacteria	220	170	209
+Omnitrophica	Bacteria	172	138	183
+Aminicenantes	Bacteria	166	136	161
+Aquificae	Bacteria	170	125	157
+Synergistetes	Bacteria	141	117	127
+Caldithrixae	Bacteria	143	86	130
+Marinimicrobia	Bacteria	135	94	131
+Candidatus Saccharibacteria	Bacteria	68	135	107
+Thermodesulfobacteria	Bacteria	108	100	118
+Nitrospinae	Bacteria	106	87	116
+Thermotogae	Bacteria	104	84	101
+Basidiomycota	Eukaryota	166	1339	1353
+Ascomycota	Eukaryota	184	275	170
+Streptophyta	Eukaryota	258	98	93
+dsDNA viruses, no RNA stage	Virus	251	278	158
+Euryarchaeota	Archaea	685	573	747
+Thaumarchaeota	Archaea	487	86	268
